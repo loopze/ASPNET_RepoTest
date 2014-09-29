@@ -10,16 +10,7 @@
 namespace BasicWebApp {
     
     
-    public partial class FirstWebPage_fromMaster {
-        
-        /// <summary>
-        /// Controllo TextBox1.
-        /// </summary>
-        /// <remarks>
-        /// Campo generato automaticamente.
-        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+    public partial class WebUserControl1 {
         
         /// <summary>
         /// Controllo Label1.
@@ -31,21 +22,12 @@ namespace BasicWebApp {
         protected global::System.Web.UI.WebControls.Label Label1;
         
         /// <summary>
-        /// Controllo Button1.
+        /// Controllo Label2.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
-        
-        /// <summary>
-        /// Controllo WebUserControl11.
-        /// </summary>
-        /// <remarks>
-        /// Campo generato automaticamente.
-        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
-        /// </remarks>
-        protected global::BasicWebApp.WebUserControl1 WebUserControl11;
+        protected global::System.Web.UI.WebControls.Label Label2;
     }
 }
